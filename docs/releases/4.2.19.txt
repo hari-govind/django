@@ -6,6 +6,13 @@ Django 4.2.19 release notes
 
 Django 4.2.19 fixes a regression in 4.2.18.
 
+Minor features
+--------------
+:mod:`django.shortcuts`
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* The new :func:`django.shortcuts.make_toast` function returns ``'toast'``.
+
 Bugfixes
 ========
 
